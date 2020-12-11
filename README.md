@@ -13,3 +13,9 @@ Change Log:
 
 
 1.2 VERSION - Out on 14/12
+
+
+Not Relased Version
+
+
+1.1 VERSION NOT RELASED - Some bugs and not working button
