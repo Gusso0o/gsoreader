@@ -1,0 +1,15 @@
+C:\Users\mguss\source\repos\AutoBlu Opener\obj\Debug\AutoBlu Opener.vbprojAssemblyReference.cache
+C:\Users\mguss\source\repos\AutoBlu Opener\obj\Debug\AutoBlu_Opener.Form1.resources
+C:\Users\mguss\source\repos\AutoBlu Opener\obj\Debug\AutoBlu_Opener.Form2.resources
+C:\Users\mguss\source\repos\AutoBlu Opener\obj\Debug\AutoBlu_Opener.Form3.resources
+C:\Users\mguss\source\repos\AutoBlu Opener\obj\Debug\AutoBlu_Opener.Resources.resources
+C:\Users\mguss\source\repos\AutoBlu Opener\obj\Debug\AutoBlu Opener.vbproj.GenerateResource.cache
+C:\Users\mguss\source\repos\AutoBlu Opener\obj\Debug\AutoBlu Opener.vbproj.CoreCompileInputs.cache
+C:\Users\mguss\source\repos\AutoBlu Opener\bin\Debug\AutoBlu Opener.exe.config
+C:\Users\mguss\source\repos\AutoBlu Opener\bin\Debug\AutoBlu Opener.exe
+C:\Users\mguss\source\repos\AutoBlu Opener\bin\Debug\AutoBlu Opener.pdb
+C:\Users\mguss\source\repos\AutoBlu Opener\bin\Debug\AutoBlu Opener.xml
+C:\Users\mguss\source\repos\AutoBlu Opener\obj\Debug\AutoBlu Opener.exe
+C:\Users\mguss\source\repos\AutoBlu Opener\obj\Debug\AutoBlu Opener.xml
+C:\Users\mguss\source\repos\AutoBlu Opener\obj\Debug\AutoBlu Opener.pdb
+C:\Users\mguss\source\repos\AutoBlu Opener\obj\Debug\AutoBlu_Opener.Form4.resources
